@@ -10,3 +10,4 @@ A, B = B, A
 print("Após a troca:")
 print("Lista A:", A)
 print("Lista B:", B)
+#Gabriel Alves Ribero
